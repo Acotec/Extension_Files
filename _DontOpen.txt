@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort']
+['LootLinks', 'bestshort','Cliccash','Clickfaucet','SatoshiClaimer','Kryptoclaim','ClaimClicksShort']
