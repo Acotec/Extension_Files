@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort','Linkjyst','Linkjust','Ovlinks','Phoenixshorts','Mozlink','megaurl','megafly']
+['LootLinks', 'bestshort']
