@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort','Linkjust','mozlink','firelink']
+['LootLinks', 'bestshort','Linkjust']
