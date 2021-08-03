@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort','Linkjust','mcmcryptos','shrinkpay']
+['LootLinks', 'bestshort','Linkjust','urlfree','shrinkpay']
