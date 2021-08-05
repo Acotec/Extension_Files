@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort','Linkjust','onewebify']
+['LootLinks', 'bestshort','Linkjust']
