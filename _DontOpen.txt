@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort','Dogecoinclick']
+['LootLinks', 'bestshort','Dogecoinclick','Zololink','Adflyfun','Bitshortco','Zshort']
