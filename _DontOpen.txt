@@ -1,1 +1,1 @@
-['LootLinks', 'bestshort','Dogecoinclick','Adflyfun']
+['LootLinks', 'bestshort','Dogecoinclick']
