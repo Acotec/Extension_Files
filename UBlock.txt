@@ -1,0 +1,54 @@
+{
+  "version": "1.37.2",
+  "userSettings": {
+    "cloudStorageEnabled": true,
+    "colorBlindFriendly": true,
+    "externalLists": "https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt\nhttps://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all",
+    "ignoreGenericCosmeticFilters": true,
+    "importedLists": [
+      "https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt",
+      "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all"
+    ],
+    "popupPanelSections": 63,
+    "webrtcIPAddressHidden": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "adguard-generic",
+    "adguard-mobile",
+    "easylist",
+    "adguard-spyware",
+    "adguard-spyware-url",
+    "easyprivacy",
+    "urlhaus-1",
+    "adguard-annoyance",
+    "fanboy-cookiemonster",
+    "fanboy-annoyance",
+    "ublock-annoyances",
+    "dpollock-0",
+    "mvps-0",
+    "plowe-0",
+    "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all",
+    "https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-cosmetic-filtering: * true\nno-remote-fonts: * true\nno-large-media: * true\nno-csp-reports: * true\nno-scripting: * true\nno-scripting: autobitco.in false\nno-scripting: autoclaim.in false\nno-scripting: autofaucet.org false",
+  "userFilters": ""
+}
