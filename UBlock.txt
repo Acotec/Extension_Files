@@ -1,5 +1,6 @@
 {
-  "version": "1.37.2",
+  "timeStamp": 1636033077700,
+  "version": "1.38.6",
   "userSettings": {
     "cloudStorageEnabled": true,
     "colorBlindFriendly": true,
@@ -51,6 +52,6 @@
   ],
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
-  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-cosmetic-filtering: * true\nno-remote-fonts: * true\nno-large-media: * true\nno-csp-reports: * true\nno-scripting: * true\nno-scripting: autobitco.in false\nno-scripting: autoclaim.in false\nno-scripting: autofaucet.org false\nno-strict-blocking: ouo.io true",
-  "userFilters": ""
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-cosmetic-filtering: * true\nno-remote-fonts: * true\nno-large-media: * true\nno-csp-reports: * true\nno-scripting: * true\nno-scripting: autobitco.in false\nno-scripting: autoclaim.in false\nno-scripting: autofaucet.org false\nno-strict-blocking: ouo.io true\nno-scripting: faucetpay.io false",
+  "userFilters": "faucetpay.io##.navbar-menu.nav\n"
 }
