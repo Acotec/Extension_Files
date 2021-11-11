@@ -1,0 +1,2 @@
+Redirect X :  https://gist.github.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/redirect.json
+Omega Switch: https://github.com/Acotec/Extension_Files/raw/master/OmegaOptions.bak
