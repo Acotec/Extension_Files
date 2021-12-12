@@ -16,7 +16,7 @@
     "deleteUnusedSessionCookiesAfter": 60,
     "deleteLocalStorage": false,
     "displayTextSize": "14px",
-    "externalHostsFiles": [],
+    "externalHostsFiles": ["https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all"],
     "externalRecipeFiles": [],
     "iconBadgeEnabled": true,
     "maxLoggedRequests": 1000,
@@ -26,6 +26,7 @@
     "popupScopeLevel": "domain",
     "processHyperlinkAuditing": true,
     "selectedHostsFiles": [
+      "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all",
       "dpollock-0",
       "mvps-0",
       "plowe-0"
