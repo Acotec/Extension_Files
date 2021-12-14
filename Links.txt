@@ -1,3 +1,3 @@
-Redirect X :  https://gist.github.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/redirect.json
+Redirect X :  https://gist.github.com/Harfho/6ce4497a399a11568c3b3ad3a7e79f97/raw/redirect.json
 Cookie-Clone: https://gist.github.com/Harfho/d93c2b1b2d93bad0aa1bba3c33e6eefb/raw/cookieclone.json
 Omega Switch: https://github.com/Acotec/Extension_Files/raw/master/OmegaOptions.bak
