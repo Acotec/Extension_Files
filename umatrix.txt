@@ -56,6 +56,7 @@
     "* yuumari.com xhr allow",
     "* github.com xhr allow",
     "* emailjs.com xhr allow",
+    "* gist.githubusercontent.com xhr allow",
     "* hcaptcha.com image allow",
     "* hcaptcha.com script allow",
     "* hcaptcha.com xhr allow",
