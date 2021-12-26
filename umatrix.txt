@@ -53,6 +53,7 @@
     "* * other block",
     "* * script block",
     "* * xhr block",
+    "* unpkg.com script allow",
     "* yuumari.com xhr allow",
     "* github.com xhr allow",
     "* emailjs.com xhr allow",
