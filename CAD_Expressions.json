@@ -1,0 +1,19 @@
+{
+  "default": [
+    {
+      "expression": "auto*.org*|auto*.in*",
+      "listType": "GREY",
+      "storeId": "default",
+      "cleanSiteData": [
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers",
+        "Cache"
+      ],
+      "cookieNames": [],
+      "id": "83AV9JnJQ",
+      "cleanAllCookies": true
+    }
+  ]
+}
