@@ -410,6 +410,9 @@
       "AdsBot-Google (+http://www.google.com/adsbot.html)",
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
     ],
+    "hcaptcha.com": [
+      "APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)"
+    ],
     "solvemedia.com": [
       "APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)"
     ]
@@ -417,7 +420,7 @@
   "exactMatch": false,
   "faqs": false,
   "json-forced": false,
-  "json-guid": "c6379499-f8f0-474f-af74-13827af8c415",
+  "json-guid": "689ad5d2-f3f1-4b62-a2a7-fddf072cf428",
   "last-update": 1627645945960,
   "log": true,
   "mode": "custom",
