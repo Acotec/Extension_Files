@@ -1,6 +1,6 @@
 {
   "blacklist": [],
-  "cache": true,
+  "cache": false,
   "custom": {
     "*": [
       "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36",
@@ -403,23 +403,26 @@
       "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
       "Mozilla/5.0 (Linux; Android 5.1; Tesla Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.0.0 Mobile Safari/537.36 YaApp_Android/10.30/apad YaSearchBrowser/10.30",
       "Mozilla/5.0 (Linux; Android 5.1; Tesla Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.0.0 Mobile Safari/537.36 YaApp_Android/9.20/apad YaSearchBrowser/9.20"
+    ],
+    "cloudflare.com": [
+      "APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)",
+      "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; AdsBot-Google-Mobile; +http://www.google.com/mobile/adsbot.html)",
+      "AdsBot-Google (+http://www.google.com/adsbot.html)",
+      "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    ],
+    "solvemedia.com": [
+      "APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)"
     ]
   },
   "exactMatch": false,
   "faqs": false,
+  "json-forced": false,
+  "json-guid": "c6379499-f8f0-474f-af74-13827af8c415",
   "last-update": 1627645945960,
-  "log": false,
+  "log": true,
   "mode": "custom",
-  "parser": {},
-  "protected": [
-    "google.com/recaptcha",
-    "gstatic.com/recaptcha",
-    "accounts.google.com",
-    "accounts.youtube.com",
-    "gitlab.com/users/sign_in"
-  ],
+  "parser": [],
+  "protected": [],
   "siblings": {},
-  "whitelist": [],
-  "json-guid": "e6f868b3-ce29-4024-b105-a313d53b01ae",
-  "json-forced": false
+  "whitelist": []
 }
