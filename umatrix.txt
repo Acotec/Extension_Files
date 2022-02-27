@@ -69,6 +69,8 @@
     "referrer-spoof: autobitco.in false",
     "referrer-spoof: autoclaim.in false",
     "referrer-spoof: autofaucet.org false",
+    "app.joinsurf.com * script allow",
+    "app.joinsurf.com * xhr allow",
     "autobitco.in ajax.googleapis.com script allow",
     "autobitco.in api-secure.solvemedia.com frame allow",
     "autobitco.in api-secure.solvemedia.com image allow",
