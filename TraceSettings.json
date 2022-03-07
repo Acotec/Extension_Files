@@ -1,18 +1,17 @@
 {
     "compat": 1,
-    "maxStoreSize": 0,
-    "backupTime": "",
+    "maxStoreSize": 5242880,
+    "backupTime": "Mon Mar 07 2022 15:41:39 GMT+0100 (West Africa Standard Time)",
     "version": "3.0.6",
-    "browser": "",
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
     "computed": {
-        "verified": "5a1eff357fd687c99e0bd2feaa7a24e6"
+        "verified": "79b0e44ebcb811fb7d522a9b9fd302ce"
     },
     "data": {
         "Main_ExecutionOrder": {
             "AllPage": [
                 "Pref_AudioFingerprint",
                 "Pref_GoogleHeader",
-                "Pref_ETagTrack",
                 "Pref_PingBlock",
                 "Pref_NativeFunctions",
                 "Pref_NetworkInformation",
@@ -28,7 +27,8 @@
                 "Pref_BatteryApi",
                 "Pref_PluginHide",
                 "Pref_CanvasFingerprint",
-                "Pref_ScreenRes"
+                "Pref_ScreenRes",
+                "Pref_ETagTrack"
             ],
             "PerPage": []
         },
@@ -64,6 +64,58 @@
                     "Pref_UserAgent": true,
                     "Pref_WebGLFingerprint": true,
                     "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*dutchycorp.space*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": true,
+                    "Pref_ScreenRes": true,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": true,
+                    "Pref_WebRTC": true
+                },
+                "SiteBlocked": false
+            },
+            "*hcaptcha.com*": {
+                "InitRequests": false,
+                "PresetLevel": null,
+                "Protections": {
+                    "Pref_AudioFingerprint": false,
+                    "Pref_BatteryApi": false,
+                    "Pref_CanvasFingerprint": false,
+                    "Pref_ClientRects": false,
+                    "Pref_CommonTracking": false,
+                    "Pref_CookieEater": false,
+                    "Pref_ETagTrack": false,
+                    "Pref_GoogleHeader": false,
+                    "Pref_HardwareSpoof": false,
+                    "Pref_IPSpoof": false,
+                    "Pref_NativeFunctions": false,
+                    "Pref_NetworkInformation": false,
+                    "Pref_PingBlock": false,
+                    "Pref_PluginHide": false,
+                    "Pref_ReferHeader": false,
+                    "Pref_ScreenRes": false,
+                    "Pref_UserAgent": false,
+                    "Pref_WebGLFingerprint": false,
+                    "Pref_WebRTC": false
                 },
                 "SiteBlocked": false
             },
@@ -355,7 +407,7 @@
             }
         },
         "Pref_IPSpoof": {
-            "enabled": false,
+            "enabled": true,
             "traceIP": {
                 "enabled": false,
                 "user_set": "128.128.128.128"
@@ -521,7 +573,7 @@
             }
         },
         "Pref_UserAgent": {
-            "enabled": false,
+            "enabled": true,
             "uaCust": {
                 "customUAs": [],
                 "enabled": false,
@@ -529,13 +581,13 @@
             },
             "uaOSConfig": {
                 "AllowLinux": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "AllowMac": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "AllowWindows": {
-                    "enabled": false
+                    "enabled": true
                 }
             },
             "uaWBConfig": {
