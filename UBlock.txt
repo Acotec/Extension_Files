@@ -1,7 +1,8 @@
 {
-  "timeStamp": 1646675675083,
+  "timeStamp": 1646788213610,
   "version": "1.41.8",
   "userSettings": {
+    "advancedUserEnabled": true,
     "cloudStorageEnabled": true,
     "externalLists": "https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt\nhttps://raw.githubusercontent.com/furkun/Anti-IP-Grabber-Hosts/main/hosts\nhttps://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/cloudflare/all",
     "ignoreGenericCosmeticFilters": true,
@@ -52,5 +53,5 @@
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
   "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-remote-fonts: * true\nno-large-media: * true\nno-csp-reports: * true\nno-scripting: * true\nno-scripting: autobitco.in false\nno-scripting: autoclaim.in false\nno-scripting: autofaucet.org false\nno-strict-blocking: ouo.io true\nno-scripting: faucetpay.io false\nno-large-media: autofaucet.dutchycorp.space false\nno-scripting: autofaucet.dutchycorp.space false",
-  "userFilters": "faucetpay.io##.navbar-menu.nav\nfaucetpay.io##a.dropdown-item:nth-of-type(9)\nautofaucet.dutchycorp.space##.center-align.l5.m12.s12.col > .center-align.s12.col > div\nautofaucet.dutchycorp.space###full_reward > .modal-content\nautofaucet.dutchycorp.space###express_boost > .modal-content\n@@||api.yuumari.com^$xhr\nautofaucet.dutchycorp.space###dropdown1 > li > [href=\"https://autofaucet.dutchycorp.space/logout.php\"]\n"
+  "userFilters": "faucetpay.io##.navbar-menu.nav\nfaucetpay.io##a.dropdown-item:nth-of-type(9)\nautofaucet.dutchycorp.space##.center-align.l5.m12.s12.col > .center-align.s12.col > div\nautofaucet.dutchycorp.space###full_reward > .modal-content\nautofaucet.dutchycorp.space###express_boost > .modal-content\n@@||api.yuumari.com\nautofaucet.dutchycorp.space###dropdown1 > li > [href=\"https://autofaucet.dutchycorp.space/logout.php\"]\nautofaucet.dutchycorp.space##.hide-on-med-and-down.right\nautofaucet.dutchycorp.space###properties > center\nautofaucet.dutchycorp.space##.center-align.l5.m12.s12.col > .center-align.s12.col\n"
 }
