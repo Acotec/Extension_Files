@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1646675797206,
+  "when": 1646926145045,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -133,12 +133,14 @@
     "autofaucet.org autofaucet.org cookie allow",
     "autofaucet.org autofaucet.org script allow",
     "autofaucet.org autofaucet.org xhr allow",
+    "autofaucet.org cdnjs.cloudflare.com script allow",
     "dutchycorp.space unpkg.com script inherit",
     "faucetpay.io faucetpay.io cookie allow",
     "faucetpay.io faucetpay.io script allow",
     "faucetpay.io faucetpay.io xhr allow",
     "https-strict: * true",
     "https-strict: behind-the-scene false",
+    "https-strict: dutchycorp.space false",
     "matrix-off: about-scheme true",
     "matrix-off: app.requestly.io true",
     "matrix-off: behind-the-scene true",
@@ -150,12 +152,17 @@
     "matrix-off: vivaldi-scheme true",
     "matrix-off: wyciwyg-scheme true",
     "no-workers: * true",
+    "no-workers: dutchycorp.space false",
     "noscript-spoof: * true",
     "referrer-spoof: * true",
     "referrer-spoof: autobitco.in false",
     "referrer-spoof: autoclaim.in false",
     "referrer-spoof: autofaucet.org false",
-    "referrer-spoof: behind-the-scene false"
+    "referrer-spoof: behind-the-scene false",
+    "yuumari.com yuumari.com cookie allow",
+    "yuumari.com yuumari.com css allow",
+    "yuumari.com yuumari.com other allow",
+    "yuumari.com yuumari.com script allow"
   ],
   "rawSettings": {
     "contributorMode": false,
