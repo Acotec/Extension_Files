@@ -1,7 +1,7 @@
 {
   "app": "uMatrix",
   "version": "1.4.4",
-  "when": 1646987221168,
+  "when": 1647117732210,
   "settings": {
     "alwaysDetachLogger": false,
     "autoUpdate": true,
@@ -115,6 +115,7 @@
     "autofaucet.dutchycorp.space storage.googleapis.com xhr allow",
     "autofaucet.dutchycorp.space tessdata.projectnaptha.com xhr allow",
     "autofaucet.dutchycorp.space tfhub.dev xhr allow",
+    "autofaucet.dutchycorp.space unpkg.com script allow",
     "autofaucet.dutchycorp.space www.google.com * allow",
     "autofaucet.dutchycorp.space www.google.com css allow",
     "autofaucet.dutchycorp.space www.google.com frame allow",
