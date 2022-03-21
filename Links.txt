@@ -1,4 +1,5 @@
 Redirect X :  https://gist.github.com/Harfho/6ce4497a399a11568c3b3ad3a7e79f97/raw/redirect.json
+RequesLy : https://app.requestly.io/rules/#sharedList/1647870268206-Harfho-dutchy
 Omega Switch: https://github.com/Acotec/Extension_Files/raw/master/OmegaOptions.bak
 Cookie-Clone: [
 AutoFCB: https://gist.github.com/Harfho/d93c2b1b2d93bad0aa1bba3c33e6eefb/raw/cookieclone.json
