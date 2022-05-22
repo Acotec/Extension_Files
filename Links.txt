@@ -1,13 +1,18 @@
 Redirect X :  https://gist.github.com/Harfho/6ce4497a399a11568c3b3ad3a7e79f97/raw/redirect.json
 Requestly : https://app.requestly.io/rules/#sharedList/1648320428746-Harfho
 Omega Switch: https://github.com/Acotec/Extension_Files/raw/master/OmegaOptions.bak
+------------------------------------
 Cookie-Clone: [
 AutoFCB: https://gist.github.com/Harfho/d93c2b1b2d93bad0aa1bba3c33e6eefb/raw/cookieclone.json
 dutchyCorp: https://gist.github.com/Harfho/27ec3f368e34dd1dd2d209e4f08d980b/raw/dutchycookieclone.json
 dutchyCorp1: https://gist.github.com/Harfho/27ec3f368e34dd1dd2d209e4f08d980b/raw/dutchycookieclone1.json
+dutchyCorp2: https://gist.github.com/Harfho/27ec3f368e34dd1dd2d209e4f08d980b/raw/dutchycookieclone2.json
 ]
+------------------------------------
 TamperM[
 Recaptcha: https://greasyfork.org/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser/code/Recaptcha%20Solver%20(Automatically%20solves%20Recaptcha%20in%20browser).user.js
-PreventPageVisibility: https://greasyfork.org/scripts/427254-preventpagevisibility/code/PreventPageVisibility.user.js,
+
+PreventPageVisibility: https://greasyfork.org/scripts/427254-preventpagevisibility/code/PreventPageVisibility.user.js
+
 Hcaptcha: https://greasyfork.org/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser/code/Hcaptcha%20Solver%20(Automatically%20solves%20Hcaptcha%20in%20browser).user.js
 ]
